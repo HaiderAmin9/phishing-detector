@@ -31,9 +31,17 @@ Install all dependencies using:
 ```bash
 pip install -r requirements.txt
 
-🖥️ How to Run
+---
+
+## 🖥️ How to Run
+
 Make sure you're in the project directory, then run:
+
+```bash
 python phishing_gui.py
 
-🧑‍💻 Author
+
+---
+
+### 🧑‍💻 Author  
 Made with ❤️ by Haider Amin
